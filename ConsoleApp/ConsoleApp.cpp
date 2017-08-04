@@ -8,6 +8,7 @@ int main()
 {
 	// this is git initial checking
 	// new comment second commit
+	//second change made in BrNewFeature
 	OutputDebugStringA("OutputDebugStringA");
 	OutputDebugStringW(L"OutputDebugStringW");
 	printf ("Hello there") ;
