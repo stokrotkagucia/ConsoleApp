@@ -7,6 +7,7 @@
 int main()
 {
 	// this is git initial checking
+	// new comment second commit
 	OutputDebugStringA("OutputDebugStringA");
 	OutputDebugStringW(L"OutputDebugStringW");
 	printf ("Hello there") ;
