@@ -13,6 +13,7 @@ int main()
 	OutputDebugStringW(L"OutputDebugStringW");
 	printf ("Hello there") ;
 	OutputDebugString(L"exiting");
+	//change made in master branch 1
 	//first change in branch BrNewFeature
 	return 0;
 }
