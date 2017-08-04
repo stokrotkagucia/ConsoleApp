@@ -14,6 +14,7 @@ int main()
 	printf ("Hello there") ;
 	OutputDebugString(L"exiting");
 	//change made in master branch 1
+	//change made in master branch 2
 	//first change in branch BrNewFeature
 	return 0;
 }
