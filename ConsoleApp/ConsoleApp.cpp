@@ -6,6 +6,7 @@
 
 int main()
 {
+	// change made in master branch 4
 	// this is git initial checking
 	// new comment second commit
 	//second change made in BrNewFeature
