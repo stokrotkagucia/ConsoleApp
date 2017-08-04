@@ -6,6 +6,7 @@
 
 int main()
 {
+	//change in master branch 6
 	// change made in master branch 5
 	// change made in master branch 4
 	// this is git initial checking
