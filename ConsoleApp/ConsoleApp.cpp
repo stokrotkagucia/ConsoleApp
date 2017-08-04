@@ -12,6 +12,7 @@ int main()
 	OutputDebugStringW(L"OutputDebugStringW");
 	printf ("Hello there") ;
 	OutputDebugString(L"exiting");
+	//first change in branch BrNewFeature
 	return 0;
 }
 
