@@ -16,6 +16,7 @@ int main()
 	//change made in master branch 1
 	//change made in master branch 2
 	//first change in branch BrNewFeature
+	//change made in master branch 3 after merging BrNewFeature
 	return 0;
 }
 
