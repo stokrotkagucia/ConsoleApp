@@ -6,6 +6,7 @@
 
 int main()
 {
+
 	// change made in master branch 8
 	// change made in master branch 7
 	// change made in master branch 6
@@ -14,7 +15,8 @@ int main()
 	// this is git initial checking
 	// new comment second commit
 	//second change made in BrNewFeature
-	// change made in master branch 8 project from GitHub
+	// change made in master branch 1 project from GitHub
+	// change made in master branch 2 project from GitHub
 	OutputDebugStringA("OutputDebugStringA");
 	OutputDebugStringW(L"OutputDebugStringW");
 	printf ("Hello there") ;
