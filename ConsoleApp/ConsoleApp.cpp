@@ -17,6 +17,7 @@ int main()
 	//second change made in BrNewFeature
 	// change made in master branch 1 project from GitHub
 	// change made in master branch 2 project from GitHub
+	// change made in master branch 3 project from GitHub
 	OutputDebugStringA("OutputDebugStringA");
 	OutputDebugStringW(L"OutputDebugStringW");
 	printf ("Hello there") ;
