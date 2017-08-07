@@ -13,6 +13,7 @@ int main()
 	// this is git initial checking
 	// new comment second commit
 	//second change made in BrNewFeature
+	// change made in master branch 8 project from GitHub
 	OutputDebugStringA("OutputDebugStringA");
 	OutputDebugStringW(L"OutputDebugStringW");
 	printf ("Hello there") ;
